@@ -96,5 +96,6 @@ rating: rating from 0 to 5
 
 free_response: text response given by user/requester
 
-This project analyzed the customer funnel of Metrocar, a ride-sharing app (similar to Uber/Lyft) as stated above, to identify areas for improvement and optimization. SQL was used for data collection and Pandas(Python) was used for further analysis and visualisation. The stakeholders have asked several business questions that can uncover valuable insights for improving specific areas of the customer funnel. A funnel analysis was conducted and the analysis as well as business recommendation was provided accordingly based on the outcome of the analysis. 
+This project analyzed the customer funnel of Metrocar, a ride-sharing app (similar to Uber/Lyft) as stated above, to identify areas for improvement and optimization. SQL was used for data collection and Pandas(Python) was used for further analysis and visualisation. 
+The stakeholders have asked several business questions that can uncover valuable insights for improving specific areas of the customer funnel. A funnel analysis was conducted and the analysis as well as business recommendation was provided accordingly based on the outcome of the analysis. 
 
